@@ -4,7 +4,7 @@ The created program can be used to build and visualize columnar, piecewise linea
 ##Tools used
 The software is implemented in the Microsoft Visual Studio 2019 programming environment in the C# programming language using the Windows platform Forms.NET Framework.
 
-## Description of algorithms and functions: 
+## Description of algorithms and functions:
 ### button1_Click:
 Creates points in the graph array. Reads and interprets the data entered in the textBox, from Text to Double. After the iteration, it displays the entered data in the form of a diagram on the program interface. Initializes and shows an error when no data is entered.
 ### Add a filetoolstripmenuitem_click
