@@ -1,7 +1,7 @@
 # Diagrams
 The created program can be used to build and visualize columnar, piecewise linear, pie charts.
 
-## Tools used
+##Tools used
 The software is implemented in the Microsoft Visual Studio 2019 programming environment in the C# programming language using the Windows platform Forms.NET Framework.
 
 ## Description of algorithms and functions:
