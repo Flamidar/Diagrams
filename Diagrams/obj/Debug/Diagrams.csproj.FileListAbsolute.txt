@@ -1,0 +1,49 @@
+C:\Users\Creon\source\repos\Diagrams\Diagrams\bin\Debug\Diagrams.exe.config
+C:\Users\Creon\source\repos\Diagrams\Diagrams\bin\Debug\Diagrams.exe
+C:\Users\Creon\source\repos\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.AssemblyReference.cache
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.Form1.resources
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.Properties.Resources.resources
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.cache
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.CoreCompileInputs.cache
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.exe
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.Form2.resources
+C:\Users\Creon\source\repos\Diagrams\Diagrams\obj\Debug\Diagrams.Form3.resources
+D:\progect\Diagrams\bin\Debug\Diagrams.exe.config
+D:\progect\Diagrams\bin\Debug\Diagrams.exe
+D:\progect\Diagrams\bin\Debug\Diagrams.pdb
+D:\progect\Diagrams\obj\Debug\Diagrams.csproj.AssemblyReference.cache
+D:\progect\Diagrams\obj\Debug\Diagrams.csproj.SuggestedBindingRedirects.cache
+D:\progect\Diagrams\obj\Debug\Diagrams.Form1.resources
+D:\progect\Diagrams\obj\Debug\Diagrams.Form2.resources
+D:\progect\Diagrams\obj\Debug\Diagrams.Form3.resources
+D:\progect\Diagrams\obj\Debug\Diagrams.Properties.Resources.resources
+D:\progect\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.cache
+D:\progect\Diagrams\obj\Debug\Diagrams.csproj.CoreCompileInputs.cache
+D:\progect\Diagrams\obj\Debug\Diagrams.exe
+D:\progect\Diagrams\obj\Debug\Diagrams.pdb
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\bin\Debug\Diagrams.exe.config
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\bin\Debug\Diagrams.exe
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\bin\Debug\Diagrams.pdb
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.Form1.resources
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.Form2.resources
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.Form3.resources
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.Properties.Resources.resources
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.exe
+C:\Users\Danil\Desktop\Учёба\тимп курсовая\проект вовы\Diagrams\obj\Debug\Diagrams.pdb
+C:\Users\Creon\Desktop\Diagrams\bin\Debug\Diagrams.exe.config
+C:\Users\Creon\Desktop\Diagrams\bin\Debug\Diagrams.exe
+C:\Users\Creon\Desktop\Diagrams\bin\Debug\Diagrams.pdb
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.csproj.AssemblyReference.cache
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.Form1.resources
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.Form2.resources
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.Form3.resources
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.Properties.Resources.resources
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.cache
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.csproj.CoreCompileInputs.cache
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.exe
+C:\Users\Creon\Desktop\Diagrams\obj\Debug\Diagrams.pdb
